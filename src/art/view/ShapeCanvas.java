@@ -24,9 +24,14 @@ public class ShapeCanvas extends JPanel
 {
 	       private ArrayList<Polygon> trinagleList;
 	       private ArrayList<Polygon> polygonList;
-	       private ArrayList<Ellipse2D> ellipse List;
+	       private ArrayList<Ellipse2D> ellipseList;
+	       private ArrayList<Rectangle> rectangleList;
+	       private ArtController app;
 	       
+	       public ShapeCanvas(ArtController app)
+	       {
+	    	   
+	       }
 }
-{
-
-}
+	       
+	       
